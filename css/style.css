@@ -1,0 +1,65 @@
+body 
+{
+  margin: 0;
+  background: url("../img/worn_dots.png");
+
+  font-family: Arial;
+  line-height: 1.5;
+  font-size: 18px;
+}
+
+.card 
+{
+  width: 400px;
+  margin: 50px auto;
+  background-color: white;
+  box-shadow: 0 5px 10px gray;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.myimg 
+{
+  display: block;
+  width: 200px; 
+  height: 200px;
+  margin: 0 auto;
+  border-radius: 50%;
+
+}
+
+.card-title
+{
+  font-size: 20px;
+  text-align: center;
+  color: #2b2172d6;
+  text-shadow: 2px 2px 4px black;
+}
+
+.card-text
+{
+  font-size: 13px;
+  text-align: justify;
+  margin: 0px 25px 0px 25px;
+}
+
+.card-subtitle
+{
+  font-size: 15px;
+  margin: 5px 25px 0px 25px;
+  color: #0f5e21d6;
+}
+
+.card-list
+{
+  margin: 0px 25px 0px 25px;
+  padding-left: 0;
+  list-style-position: inside;
+  font-size: 14px;
+}
+
+.card-cont
+{
+  font-size: 13px;
+  margin: 0px 25px 0px 25px;
+}
